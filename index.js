@@ -36,7 +36,8 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["୭₊˚・ Toxic lover, you're no better","︶₊˚거기 숨지 말고 얼른 나와
+"];
 
 
 let currentIndex = 0;
